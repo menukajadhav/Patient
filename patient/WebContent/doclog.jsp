@@ -116,7 +116,7 @@ Authentication</div></div>
             <font style="color:green;font-size:12px;font-family:verdana">Username:</font></label><br>
         <input id="inputArea" type="text" name="name"/><br>
         <label for="txtWebsite">
-            <font style="color:green;font-size:12px;font-family:verdana">Password:</font></label><br><input id="inputArea" type="password" name="pass" />
+                   <font style="color:green;font-size:12px;font-family:verdana">Password:</font></label><br><input id="inputArea" type="password" name="pass" />
 	     
 		<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" name="sub" value="" class="submit">
