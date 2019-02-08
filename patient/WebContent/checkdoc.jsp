@@ -2,7 +2,7 @@
 
 <html>
 
-                                     <head>
+ <head>
 
 	<title>Patient Self-controllable and
 Multi-level Privacy-preserving Cooperative
@@ -20,7 +20,7 @@ function delayer(){
     <body onLoad="setTimeout('delayer()', 1000)">
 <h2 style="color:red;font-size:15px;width:400px;font-family:verdana;">Prepare to be redirected!This page is a time delay redirect!</h2><br>
 	<form>
-		<p align="center" style="color:white;font-family:verdana;font-size:15px;font-weight:bold;">
+		<p align=center" style="color:white;font-family:verdana;font-size:15px;font-weight:bold;">
 	<% 
 
          String name=request.getParameter("name");
