@@ -24,7 +24,7 @@ Authentication</title>
 Multi-level
  
 
-	  <div align="center">Privacy-preserving Cooperative
+	                  <div align="center">Privacy-preserving Cooperative
 Authentication</div></div>
    </div><!-- end of logo -->
    
