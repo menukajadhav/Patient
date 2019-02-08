@@ -8,7 +8,14 @@
 
 
 
-                 <%@ page language="java" import="java.sql.*,databaseconnection.*" errorPage="Error.jsp"%>
+<%@ page language="java" import="java.sql.*,databaseconnection.*" errorPage="Error.jsp"%>
+
+
+
+
+
+
+
 <html>
 <head>
 <title>Patient Self-controllable and
